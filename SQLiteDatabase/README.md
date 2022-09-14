@@ -8,13 +8,13 @@ To create a database table and to display the database table field using SQLite 
 
 ## EQUIPMENTS REQUIRED:
 
-Android Studio(Min.required Artic Fox)
+Android Studio(Min.required Arctic Fox)
 
 ## ALGORITHM:
 
-Step 1: Open Android Stdio and then click on File -> New -> New project.
+Step 1: Open Android Studio and then click on File -> New -> New project.
 
-Step 2: Then type the Application name as HelloWorld and click Next. 
+Step 2: Then type the Application name as sqllite and click Next. 
 
 Step 3: Then select the Minimum SDK as shown below and click Next.
 
@@ -30,15 +30,15 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the DatabaseTable using the SQLite”.
-Developed by:
-Registeration Number :
+Developed by : Y Chethan
+Registration Number : 212220230008
 */
 ```
 
-## OUTPUT
+## OUTPUT:
 
 
 
 
-## RESULT
-Thus a Simple Android Application create a dtatabase table and to display the database table  using SQLite Database in Android Studio is developed and executed successfully.
+## RESULT:
+Thus, a Simple Android Application to create a database table and to display the database table using SQLite Database in Android Studio is developed and executed successfully.
