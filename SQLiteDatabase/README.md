@@ -69,6 +69,8 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
     }
+    
+    
     public void btnInsertPressed(View v){
         dbManager.insert(editUserName.getText().toString(),editUserPassword.getText().toString());
     }
