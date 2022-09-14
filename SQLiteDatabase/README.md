@@ -24,6 +24,8 @@ Step 6: Enter the code in MainActivity file.
 
 Step 7: Save and run the application.
 
+<br><br><br><br>
+
 ## PROGRAM:
 ```
 /*
