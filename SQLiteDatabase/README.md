@@ -95,6 +95,9 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
+<br><br><br><br><br><br><br><br><br><br>
+
 ### DatabaseManager.java
 ```
 package com.example.sqlliteapp;
