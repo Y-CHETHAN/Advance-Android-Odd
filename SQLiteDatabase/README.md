@@ -308,7 +308,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 ### Fetch
 ![image](https://user-images.githubusercontent.com/75234991/190099890-6d34d0c1-2edd-497d-9b02-30f0b509ed06.png)
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
 ### Update
 ![image](https://user-images.githubusercontent.com/75234991/190100039-383a2bd4-6283-4cfd-b73d-09476b1456d5.png)
