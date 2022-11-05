@@ -29,7 +29,7 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 /*
-Program to print the DatabaseTable using the SQLite”.
+Program to print the DatabaseTable using the SQLite.
 Developed by        : Y Chethan
 Registration Number : 212220230008
 */
