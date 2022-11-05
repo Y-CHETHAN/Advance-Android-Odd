@@ -25,8 +25,6 @@ Step 6: Display message give in MainActivity file(client/server).
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br><br><br><br>
-
 ## PROGRAM:
 ```
 /*
