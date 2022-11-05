@@ -25,6 +25,8 @@ Step 6: Display avaliable sensor in android mobile devices.
 
 Step 7: Save and run the application.
 
+<br><br><br><br><br><br><br><br><br><br>
+
 ## PROGRAM:
 ```
 /*
