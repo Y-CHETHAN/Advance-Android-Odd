@@ -31,7 +31,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the details of proximity sensor in android mobile devices.
-Developed by         : Y Chethan
+Developed by        : Y Chethan
 Registration Number : 212220230008
 */
 ```
