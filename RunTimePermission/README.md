@@ -211,6 +211,9 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/75234991/203709069-3097f932-2be6-4643-a262-64d2c1c1583b.png)
+
+
 
 ## RESULT:
 Thus, a Simple Android Application to request storage and camera permission at RunTime in Android Studio is developed and executed successfully.
